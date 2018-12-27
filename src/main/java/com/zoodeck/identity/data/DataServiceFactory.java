@@ -1,6 +1,6 @@
 package com.zoodeck.identity.data;
 
-import com.zoodeck.identity.config.ConfigService;
+import com.zoodeck.common.config.ConfigService;
 
 public class DataServiceFactory {
     public static DataService getDataService(ConfigService configService) {
